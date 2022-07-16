@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Utsav Singh | Kushagra Gupta</title>
+    <link>/authors/utsav-singh/</link>
+      <atom:link href="/authors/utsav-singh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Utsav Singh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Kushagra Gupta 2021</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpeg</url>
+      <title>Utsav Singh</title>
+      <link>/authors/utsav-singh/</link>
+    </image>
+    
+    <item>
+      <title>Multi-Agent Reinforcement Learning</title>
+      <link>/project/mrl/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/project/mrl/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;I worked on multi-agent self-play in atari games in collaborative and competitive settings.&lt;/li&gt;
+&lt;li&gt;I used variational autoencoders to disentangle multiple near-optimal policies extracted using latent code.&lt;/li&gt;
+&lt;li&gt;Our initial results on the model gave win probability of 72%, which is close to 80% SOTA values, and much better than the human score of 40% in multi-agent CTF.&lt;/li&gt;
+&lt;li&gt;I worked on developing a generative model for InfoRL to maintain unsupervised setting for latent code generation to allow all standard MARL algorithms to be used with InfoRL.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

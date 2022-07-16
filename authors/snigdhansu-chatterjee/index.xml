@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Snigdhansu Chatterjee | Kushagra Gupta</title>
+    <link>/authors/snigdhansu-chatterjee/</link>
+      <atom:link href="/authors/snigdhansu-chatterjee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Snigdhansu Chatterjee</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Kushagra Gupta 2021</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpeg</url>
+      <title>Snigdhansu Chatterjee</title>
+      <link>/authors/snigdhansu-chatterjee/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian equation selection with spike and slab priors</title>
+      <link>/project/comp_model/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/project/comp_model/</guid>
+      <description>&lt;p&gt;Often the underlying system of differential equations driving a stochastic dynamical system is assumed to be known, with inference conditioned on this assumption. We present a Bayesian framework for discovering this system of differential equations under assumptions that align with real-life scenarios, including the availability of relatively sparse data. Further, we discuss computational strategies that are critical in teasing out the important details about the dynamical system and algorithmic innovations to solve for acute parameter interdependence in the absence of rich data. This gives a complete Bayesian pathway for model identification via a variable selection paradigm and parameter estimation of the corresponding model using only the observed data. We present detailed computations and analysis of the Lorenz-96, Lorenz-63, and the Orstein-Uhlenbeck system using the Bayesian framework we propose.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

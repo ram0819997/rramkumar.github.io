@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dootika Vats | Kushagra Gupta</title>
+    <link>/authors/dootika-vats/</link>
+      <atom:link href="/authors/dootika-vats/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dootika Vats</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Kushagra Gupta 2021</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpeg</url>
+      <title>Dootika Vats</title>
+      <link>/authors/dootika-vats/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian equation selection with spike and slab priors</title>
+      <link>/project/comp_model/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/project/comp_model/</guid>
+      <description>&lt;p&gt;Often the underlying system of differential equations driving a stochastic dynamical system is assumed to be known, with inference conditioned on this assumption. We present a Bayesian framework for discovering this system of differential equations under assumptions that align with real-life scenarios, including the availability of relatively sparse data. Further, we discuss computational strategies that are critical in teasing out the important details about the dynamical system and algorithmic innovations to solve for acute parameter interdependence in the absence of rich data. This gives a complete Bayesian pathway for model identification via a variable selection paradigm and parameter estimation of the corresponding model using only the observed data. We present detailed computations and analysis of the Lorenz-96, Lorenz-63, and the Orstein-Uhlenbeck system using the Bayesian framework we propose.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Replicated Batch Means for Parallel MCMC</title>
+      <link>/project/rbm/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/project/rbm/</guid>
+      <description>&lt;p&gt;Sufficient research has been done on estimating the asymptotic covariance matrix in a Markov chain central limit theorem for applications in Markov chain Monte Carlo (MCMC). However, almost all of it, including the efficient batch means (BM) estimator, focuses on a single-chain MCMC run. We demonstrate that simply averaging covariance matrix estimators from different chains (average BM) can yield critical underestimates of the variance in small sample sizes, especially for slow mixing Markov chains.  We propose a multivariate replicated batch means (RBM) estimator that utilizes information across all chains in order to estimate the asymptotic covariance matrix, thereby correcting for the underestimation. Under weak conditions on the mixing rate of the process, strong consistency of the RBM estimator follows from the strong consistency of the BM estimators. Further, we show that the large-sample bias and variance of the RBM estimator mimics that of the average BM estimator. Thus, for large MCMC runs, the RBM and average BM yield equivalent performance, but for small MCMC runs, the RBM estimator can be dramatically superior. This superiority is demonstrated through a variety of examples, including a two-variable Gibbs sampler for a bivariate Gaussian target distribution. Here we obtain a closed-form expression for the asymptotic covariance matrix of the Monte Carlo estimator, a result vital in itself, as it allows for benchmarking implementations in the future.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
